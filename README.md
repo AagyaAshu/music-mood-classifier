@@ -1,3 +1,5 @@
+🔗 **[Live Demo](https://music-mood-classifier-3hqgutjgsypaidq3daa2uj.streamlit.app)**
+
 # 🎵 Music Mood Classifier & Playlist Generator
 
 > Classify songs into moods and get personalized playlists — powered by **K-Nearest Neighbors (KNN)**
