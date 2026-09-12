@@ -1,4 +1,7 @@
-🔗 **[Live Demo](https://music-mood-classifier-3hqgutjgsypaidq3daa2uj.streamlit.app)**
+🔗 **[Live Demo](https://music-mood-classifier-3hqgutjgsypaidq3daa2uj.streamlit.app)**  
+ 
+![Demo](screenshots/demo.gif)
+
 
 # 🎵 Music Mood Classifier & Playlist Generator
 
